@@ -3,16 +3,15 @@
 Para correr el juergo debes correr las siguiente instrucciones
 
 ```sh
-
 cd game
 python3 main.py
-...
+```
 
 
-# app proyect
+# App proyect
 
 
-ara correr el juergo debes correr las siguiente instrucciones
+Para correr el juergo debes correr las siguiente instrucciones
 
 ```sh
 
@@ -21,7 +20,8 @@ cd app
 source env/bin/activate
 pip3 install -r requirements.txt 
 python3 main.py
-...
+
+```
 
 
 
